@@ -1,62 +1,88 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Gy%20%E2%80%94%20WeType%20Monet&fontSize=42&fontAlignY=35&animation=fadeIn)
+<img width="100%" alt="CnGyZzh profile banner" src="https://capsule-render.vercel.app/api?type=waving&height=185&text=CnGyZzh&fontSize=56&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&color=0:0D1117,50:7C3AED,100:22D3EE" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=560&lines=%E5%BE%AE%E4%BF%A1%E8%BE%93%E5%85%A5%E6%B3%95+Monet+%E4%B8%BB%E9%A2%98%E7%BB%B4%E6%8A%A4%E8%80%85;Android+%E7%88%B1%E5%A5%BD%E8%80%85+%F0%9F%A4%96;Material+You+%E5%8A%A8%E6%80%81%E9%85%8D%E8%89%B2+%F0%9F%8E%A8;%E9%9A%8F%E7%BC%98%E6%9B%B4%E6%96%B0+%E2%9A%A1)](https://git.io/typing-svg)
+# Hi, I'm CnGyZzh
 
-[![Profile views](https://komarev.com/ghpvc/?username=CnGyZzh&style=flat-square&color=blueviolet)](https://github.com/CnGyZzh)
-[![GitHub followers](https://img.shields.io/github/followers/CnGyZzh?style=social)](https://github.com/CnGyZzh)
-[![Stars](https://img.shields.io/github/stars/CnGyZzh/WeType_Monet-Gy?style=social)](https://github.com/CnGyZzh/WeType_Monet-Gy)
+**Android tinkerer · Open-source maker · Material You enthusiast**
 
----
+<a href="https://github.com/CnGyZzh?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://t.me/CnGyZzh"><img src="https://img.shields.io/badge/Telegram-@CnGyZzh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
-## 📊 GitHub 统计
+<img src="https://komarev.com/ghpvc/?username=CnGyZzh&style=flat-square&color=7C3AED" alt="Profile views" />
+<a href="https://github.com/CnGyZzh?tab=followers"><img src="https://img.shields.io/github/followers/CnGyZzh?style=flat-square&label=Followers&color=7C3AED" alt="GitHub followers" /></a>
+<a href="https://github.com/CnGyZzh/WeType_Monet-Gy/stargazers"><img src="https://img.shields.io/github/stars/CnGyZzh/WeType_Monet-Gy?style=flat-square&label=WeType%20stars&color=22D3EE" alt="WeType Monet stars" /></a>
 
-<div>
-  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=CnGyZzh&show_icons=true&theme=transparent&hide_title=true&hide_border=true&icon_color=7C4DFF" />
-  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=CnGyZzh&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CnGyZzh&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+## About
 
-## 📈 最近 31 天活跃度
+我把注意力放在 **Android 个性化**、**实用工具** 与 **开源维护** 上：尝试把复杂的系统能力，打磨成更容易安装、使用和回滚的体验。
 
-[![Activity Graph](https://readme-activity-graph.vercel.app/graph?username=CnGyZzh&theme=minimal&hide_border=true&area=true&radius=8)](https://github.com/CnGyZzh)
+- **正在维护**：微信输入法的 Material You / Monet 动态配色分支
+- **正在探索**：微信场景下的上下文理解与对话辅助能力
+- **长期沉淀**：清晰文档、可复现构建与小而可靠的工具
 
-## 🐍 贡献图贪吃蛇
+## Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 WeType Monet</h3>
+      <p>为安卓版微信输入法带来 Material You / Monet 动态配色的个人维护分支，提供 Magisk、KernelSU Overlay 与独立安装包路线。</p>
+      <p><a href="https://github.com/CnGyZzh/WeType_Monet-Gy">Repository</a> · <a href="https://github.com/CnGyZzh/WeType_Monet-Gy/releases">Releases</a></p>
+      <img src="https://img.shields.io/badge/Android-14%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 14 or later" />
+      <img src="https://img.shields.io/badge/Material%20You-Monet-7C4DFF?style=flat-square" alt="Material You Monet" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 言外 · Yanwai</h3>
+      <p>面向微信聊天的 Android LSPosed / Xposed 模块：结合上下文展示情绪概率、潜台词与沟通建议。</p>
+      <p><a href="https://github.com/CnGyZzh/yanwai-Gy">Repository</a> · <a href="https://github.com/YIRC99/yanwai">Upstream</a></p>
+      <img src="https://img.shields.io/badge/Android-9%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 9 or later" />
+      <img src="https://img.shields.io/badge/LSPosed%20%2F%20Xposed-Module-555555?style=flat-square" alt="LSPosed and Xposed module" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 GitHub Level</h3>
+      <p>一个轻量的个人 GitHub 活跃记录与资料页仪表板仓库，用于追踪和展示持续的开源足迹。</p>
+      <p><a href="https://github.com/CnGyZzh/Level">Open dashboard</a></p>
+      <img src="https://img.shields.io/badge/Focus-GitHub%20profile-22D3EE?style=flat-square" alt="GitHub profile" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 More to come</h3>
+      <p>这里会持续收录正在打磨的新工具、可复现的配置和有用的实验。</p>
+      <p><a href="https://github.com/CnGyZzh?tab=repositories">Browse all repositories</a></p>
+    </td>
+  </tr>
+</table>
+
+## GitHub snapshot
+
+<div align="center">
+  <a href="https://github.com/CnGyZzh">
+    <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=CnGyZzh&show_icons=true&theme=transparent&hide_title=true&hide_border=true&icon_color=7C3AED&rank_icon=github" alt="CnGyZzh GitHub statistics" />
+  </a>
+  <a href="https://github.com/CnGyZzh?tab=repositories">
+    <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=CnGyZzh&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=CnGyZzh&theme=transparent&hide_border=true&ring=7C3AED&fire=F97316&currStreakLabel=7C3AED" alt="GitHub contribution streak" /></a>
+</div>
+
+## Open-source trail
+
+<a href="https://github.com/CnGyZzh"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CnGyZzh&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=22d3ee&area=true&hide_border=true&radius=8" alt="Recent GitHub activity" /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated GitHub contribution grid" src="https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 🛠️ 我的项目
+## Connect
 
-<div>
-  <a href="https://github.com/CnGyZzh/WeType_Monet-Gy">
-    <img height="140" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=CnGyZzh&repo=WeType_Monet-Gy&theme=transparent&hide_border=true&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/CnGyZzh/Level">
-    <img height="140" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=CnGyZzh&repo=Level&theme=transparent&hide_border=true&description_lines_count=2" />
-  </a>
-</div>
-
-## 🏆 GitHub 成就
-
-[![Achievements](https://img.shields.io/badge/%E6%9F%A5%E7%9C%8B%E6%88%91%E7%9A%84%E6%88%90%E5%B0%B1-Profile-181717?style=for-the-badge&logo=github)](https://github.com/CnGyZzh?tab=achievements)
-
-## 😄 今日份
-
-[![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue&hideBorder)](https://github.com/ABSphreak/readme-jokes)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-
-## 📫 联系
-
-[![Telegram](https://img.shields.io/badge/Telegram-@CnGyZzh-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/CnGyZzh)
-[![GitHub](https://img.shields.io/badge/GitHub-CnGyZzh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CnGyZzh)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
-
-</div>
+<a href="https://t.me/CnGyZzh"><img src="https://img.shields.io/badge/Telegram-@CnGyZzh-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://github.com/CnGyZzh"><img src="https://img.shields.io/badge/GitHub-CnGyZzh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
