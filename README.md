@@ -17,11 +17,11 @@
 
 ## About
 
-我把注意力放在 **Android 个性化**、**实用工具** 与 **开源维护** 上：尝试把复杂的系统能力，打磨成更容易安装、使用和回滚的体验。
+我把注意力放在 **Android 个性化**、**系统工具** 与 **开源维护** 上：尝试把复杂的系统能力，打磨成更容易安装、使用和回滚的体验。
 
 - **正在维护**：微信输入法的 Material You / Monet 动态配色分支
-- **正在探索**：微信场景下的上下文理解与对话辅助能力
-- **长期沉淀**：清晰文档、可复现构建与小而可靠的工具
+- **正在构建**：更清晰的安装流程、自动化构建和可复现文档
+- **长期沉淀**：小而可靠的工具，以及真实可用的 Android 实验
 
 ## Selected projects
 
@@ -33,29 +33,29 @@
       <p><a href="https://github.com/CnGyZzh/WeType_Monet-Gy">Repository</a> · <a href="https://github.com/CnGyZzh/WeType_Monet-Gy/releases">Releases</a></p>
       <img src="https://img.shields.io/badge/Android-14%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 14 or later" />
       <img src="https://img.shields.io/badge/Material%20You-Monet-7C4DFF?style=flat-square" alt="Material You Monet" />
+      <img src="https://img.shields.io/badge/Magisk%20%2F%20KernelSU-supported-22D3EE?style=flat-square" alt="Magisk and KernelSU supported" />
     </td>
-    <td width="50%" valign="top">
-      <h3>💬 言外 · Yanwai</h3>
-      <p>面向微信聊天的 Android LSPosed / Xposed 模块：结合上下文展示情绪概率、潜台词与沟通建议。</p>
-      <p><a href="https://github.com/CnGyZzh/yanwai-Gy">Repository</a> · <a href="https://github.com/YIRC99/yanwai">Upstream</a></p>
-      <img src="https://img.shields.io/badge/Android-9%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 9 or later" />
-      <img src="https://img.shields.io/badge/LSPosed%20%2F%20Xposed-Module-555555?style=flat-square" alt="LSPosed and Xposed module" />
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📈 GitHub Level</h3>
-      <p>一个轻量的个人 GitHub 活跃记录与资料页仪表板仓库，用于追踪和展示持续的开源足迹。</p>
-      <p><a href="https://github.com/CnGyZzh/Level">Open dashboard</a></p>
-      <img src="https://img.shields.io/badge/Focus-GitHub%20profile-22D3EE?style=flat-square" alt="GitHub profile" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 More to come</h3>
-      <p>这里会持续收录正在打磨的新工具、可复现的配置和有用的实验。</p>
-      <p><a href="https://github.com/CnGyZzh?tab=repositories">Browse all repositories</a></p>
+      <p>一个轻量的个人 GitHub 活跃记录与资料页仪表板，用于集中展示开源足迹和项目入口。</p>
+      <p><a href="https://github.com/CnGyZzh/Level">Open dashboard</a> · <a href="https://github.com/CnGyZzh?tab=repositories">All repositories</a></p>
+      <img src="https://img.shields.io/badge/Focus-GitHub%20profile-2563EB?style=flat-square" alt="GitHub profile" />
+      <img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square" alt="Active status" />
     </td>
   </tr>
 </table>
+
+## Current focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Android-Kotlin%20%7C%20Python-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Kotlin and Python" />
+<img src="https://img.shields.io/badge/Customization-Material%20You%20%7C%20Monet-7C3AED?style=for-the-badge" alt="Material You and Monet" />
+<img src="https://img.shields.io/badge/Workflow-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+
+</div>
+
+> 目前更关注“能安装、能回滚、能说明白”的 Android 小工具，而不是堆叠未经验证的功能。
 
 ## GitHub snapshot
 
