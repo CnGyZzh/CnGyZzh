@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">CnGyZzh</title><desc id="desc">Android, Material You, and small useful tools.</desc>
 <rect width="1200" height="320" rx="40" fill="#f0eaf7"/>
-<rect x="48" y="42" width="238" height="34" rx="17" fill="#ded0f0"/>
+<rect x="48" y="42" width="300" height="34" rx="17" fill="#ded0f0"/>
 <text x="68" y="65" fill="#574171" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">MY OPEN-SOURCE CORNER</text>
 <text x="48" y="172" fill="#30283d" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-4">CnGyZzh.</text>
 <text x="52" y="224" fill="#67508f" font-family="Arial,sans-serif" font-size="25">Small steps. Useful things.</text>
