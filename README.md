@@ -33,10 +33,14 @@ Android tinkerer · Material You enthusiast · Open-source maker
 
 ### 开源足迹
 
-[查看我的贡献、提交与讨论 →](https://github.com/CnGyZzh?tab=overview)
+[查看公开活动记录 →](https://github.com/CnGyZzh/Level/blob/main/activity.txt) · [查看刷新日志](https://github.com/CnGyZzh/Level/blob/main/daily_log.txt)
+
+活动记录包含公开事件的时间、仓库和类型，由 GitHub Actions 定期更新。
 
 <details>
 <summary>展开贡献动画</summary>
+
+[单独打开贡献动画](https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake-dark.svg" />
