@@ -1,46 +1,53 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="CnGyZzh — Android, Material You, and small useful tools" />
+<img src="assets/banner.svg" width="100%" alt="CnGyZzh" />
 
-# Hi, I’m Gy 👋
+# CnGyZzh · Gy
 
-Android tinkerer · Material You enthusiast · Open-source maker
+**Android / Root / Material You / Automation**
 
-[个人网站](https://cngyzzh.github.io) · [所有项目](https://github.com/CnGyZzh?tab=repositories) · [Telegram](https://t.me/CnGyZzh)
+[![GitHub](https://img.shields.io/badge/GitHub-CnGyZzh-181717?logo=github)](https://github.com/CnGyZzh)
+[![Level](https://img.shields.io/badge/Activity-Level-6f42c1)](https://github.com/CnGyZzh/Level)
+[![Website](https://img.shields.io/badge/Site-cngyzzh.github.io-4285F4)](https://cngyzzh.github.io)
+
+[项目总览](#projects) · [公开活动](https://github.com/CnGyZzh/Level) · [个人网站](https://cngyzzh.github.io)
 
 </div>
 
-### 把想法，做成日常。
+## About
 
-我是 **CnGyZzh**，关注 Android 个性化、系统工具和开源维护。希望把复杂的系统能力，打磨成更容易安装、使用和回滚的体验。
+这里是 **Gy / CnGyZzh** 的 GitHub 主页。主要做 Android Root 环境、HyperOS 调校、Material You / Monet、自动化脚本与轻量工具。
 
-- **Android 个性化** — 探索 Material You / Monet 动态配色。
-- **小而实用的工具** — 从日常需求出发，逐步改善体验。
-- **清晰的文档** — 记录安装限制、兼容范围与回滚路径。
+目标很简单：**能用、好看、可回滚、文档清楚。**
 
-### 项目与仓库
+## Projects
 
-| 项目 | 内容 | 入口 |
-| :--- | :--- | :--- |
-| **✦ WeType Monet** | 微信输入法 Material You / Monet 动态配色个人维护分支；提供 Overlay 与独立 APK 构建路线。 | [代码](https://github.com/CnGyZzh/WeType_Monet-Gy) · [下载](https://github.com/CnGyZzh/WeType_Monet-Gy/releases) |
-| **⚡ HyperMax** | 面向 Xiaomi 17 Pro 的刷新率、触控与温控整合适配，含模块 WebUI。兼容条件见项目说明。 | [说明](https://github.com/CnGyZzh/HyperMax) · [下载](https://github.com/CnGyZzh/HyperMax/releases) |
-| **↗ GitHub Level** | 自动抓取公开 GitHub 事件的文本归档与刷新日志。 | [仓库](https://github.com/CnGyZzh/Level) |
-| **◒ 个人网站** | Material You 风格的项目索引、近况与发布记录。 | [网站](https://cngyzzh.github.io) · [源码](https://github.com/CnGyZzh/CnGyZzh.github.io) |
-| **✧ Profile** | 当前 GitHub 主页的 README、视觉资源与贡献动画工作流。 | [仓库](https://github.com/CnGyZzh/CnGyZzh) |
-| **ManifestAutoUpdate** | 历史仓库，当前无法访问，暂不提供功能与使用说明。 | [仓库入口](https://github.com/CnGyZzh/ManifestAutoUpdate) |
+| 项目 | 方向 | 状态 |
+| :--- | :--- | :---: |
+| **[Level](https://github.com/CnGyZzh/Level)** | GitHub 公开活动归档、项目索引与个人开发记录 | ⭐ 主索引 |
+| **[HyperMax](https://github.com/CnGyZzh/HyperMax)** | Xiaomi 17 Pro 高刷 / 触控 / 温控调校模块 | Active |
+| **[WeType Monet](https://github.com/CnGyZzh/WeType_Monet-Gy)** | 微信输入法 Material You / Monet 动态配色 | Active |
+| **[ZEEHO Auto Gy](https://github.com/CnGyZzh/ZEEHO-Auto-Gy)** | 极核 ZEEHO GitHub Actions 自动任务 | Active |
+| **[CnGyZzh.github.io](https://github.com/CnGyZzh/CnGyZzh.github.io)** | 个人站点与项目展示 | Active |
 
-<sub>仓库清单核对于 2026-09-30。项目兼容性、下载内容与维护状态以各仓库说明及 Releases 为准。</sub>
+> **Level** 作为统一活动与项目入口；各项目 README 统一回链到 **CnGyZzh / Level**，方便在仓库间导航。
 
-### 开源足迹
+## Current focus
 
-[查看公开活动记录 →](https://github.com/CnGyZzh/Level/blob/main/activity.txt) · [查看刷新日志](https://github.com/CnGyZzh/Level/blob/main/daily_log.txt)
+- **HyperMax** — Xiaomi 17 Pro 刷新率、触控与温控策略整合。
+- **WeType Monet** — 微信输入法动态配色维护与自动构建。
+- **Automation** — GitHub Actions、签到、版本更新与发布流程。
 
-活动记录包含公开事件的时间、仓库和类型，由 GitHub Actions 定期更新。
+## Activity
+
+公开 GitHub 活动由 **[Level](https://github.com/CnGyZzh/Level)** 自动归档：
+
+- [activity.txt](https://github.com/CnGyZzh/Level/blob/main/activity.txt) — 公开事件记录
+- [daily_log.txt](https://github.com/CnGyZzh/Level/blob/main/daily_log.txt) — 刷新日志
+- [Actions](https://github.com/CnGyZzh/Level/actions) — 自动更新工作流
 
 <details>
-<summary>展开贡献动画</summary>
-
-[单独打开贡献动画](https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake.svg)
+<summary><b>Contribution animation</b></summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CnGyZzh/CnGyZzh/output/github-contribution-grid-snake-dark.svg" />
@@ -51,11 +58,10 @@ Android tinkerer · Material You enthusiast · Open-source maker
 
 ---
 
-<details>
-<summary>这个主页如何维护</summary>
+<div align="center">
 
-编辑 [README.md](README.md) 更新介绍与项目表；[assets/banner.svg](assets/banner.svg) 是仓库内的横幅。[snake.yml](.github/workflows/snake.yml) 在推送、手动触发或定时运行时生成贡献动画，并发布到 output 分支。
+**CnGyZzh × Level**
 
-</details>
+<sub>Android tinkering · Material You · useful automation</sub>
 
-<sub>Small steps. Useful things. Shared openly.</sub>
+</div>
